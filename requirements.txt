@@ -1,0 +1,5 @@
+langflow==1.2.0
+openai
+python-docx
+faiss-cpu
+uvicorn
